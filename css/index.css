@@ -1,0 +1,20 @@
+.header{
+    color: white;
+    height: 10vh;
+    text-align: center;
+
+}
+.main{
+    display: flex;
+    height: 80vh;
+
+}
+.main div{
+height: auto;
+
+}
+.footer{
+    color: white;
+    height: 10vh;
+    text-align: center;
+}
