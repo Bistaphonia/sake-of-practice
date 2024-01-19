@@ -1,20 +1,27 @@
-.header{
-    color: white;
+header{
+    color: black;
     height: 10vh;
     text-align: center;
+    border: 1px solid red;
 
 }
-.main{
+main{
     display: flex;
+    justify-content: space-between;
     height: 80vh;
+    /* border: 1px solid red; */
 
 }
-.main div{
+main div{
 height: auto;
+border: 1px solid red;
+
 
 }
-.footer{
-    color: white;
+footer{
+    color: black;
     height: 10vh;
     text-align: center;
+    border: 1px solid red;
+
 }
